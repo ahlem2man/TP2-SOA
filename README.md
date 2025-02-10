@@ -14,3 +14,6 @@ L'objectif de ce projet était de créer une API permettant de gérer des person
 ### Étape 2 : Création de l'API
 - Mise en place des routes RESTful pour gérer les personnes (`GET`, `POST`, `PUT`, `DELETE`).
 - Test de l'API via Postman pour s'assurer que toutes les routes fonctionnent correctement.
+  ### Conclusion
+Ce projet a permis de mettre en place une API sécurisée et de se familiariser avec l'intégration d'une solution de gestion des utilisateurs comme Keycloak.
+
